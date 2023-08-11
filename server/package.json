@@ -1,5 +1,5 @@
 {
-  "name": "assignment-1",
+  "name": "publish-to-npm",
   "version": "1.0.0",
   "description": "Convert this from JS to typescript.",
   "main": "index.js",
@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@anuraag123/common": "^1.0.2",
     "@types/cors": "^2.8.13",
     "@types/express": "^4.17.17",
     "@types/jsonwebtoken": "^9.0.2",
